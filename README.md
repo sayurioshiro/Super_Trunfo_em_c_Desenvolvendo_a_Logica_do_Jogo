@@ -1,0 +1,1 @@
+# Super_Trunfo_em_c_Desenvolvendo_a_Logica_do_Jogo
